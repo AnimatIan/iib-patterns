@@ -23,7 +23,7 @@
             "id": "categories.HIP",
             "name": "Hybrid Integration",
             "parent_category_id": "com.ibm.etools.pattern",
-            "doc_url": "http://bthomps.github.io/iib-patterns/en/categories/categories.HIP/overview.htm"
+            "doc_url": "http://github.com/AnimatIan/iib-patterns/en/categories/categories.HIP/overview.htm"
         },
         {
             "id": "com.ibm.etools.mft.pattern.mbi",
